@@ -1,7 +1,3 @@
-# Hi, I am Ramya!
-
-I'm a data analyst and now building impactful projects in SQL, PowerBI and Microsoft fabric
-
 # Power BI Portfolio
 
 Welcome to my Power BI portfolio. This repository contains dashboards demonstrating skills in:
