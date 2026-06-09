@@ -2,10 +2,10 @@ Power BI Portfolio
 
 Welcome to my Power BI portfolio. This repository contains dashboards demonstrating skills in:
 
-Data Modeling
-DAX
-Power Query
-Data Visualization
+Data Modeling,
+DAX,
+Power Query,
+Data Visualization,
 Business Intelligence
 
 Projects:
